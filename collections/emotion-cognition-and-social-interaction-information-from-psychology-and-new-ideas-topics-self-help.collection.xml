@@ -1,0 +1,116 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Mark Rozen Pettinelli">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10403</md:content-id>
+    <md:title>Emotion, Cognition, and Social Interaction - Information from Psychology and New Ideas topics self help</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>72e61ba0-7957-4249-a3c8-50c0beecf9f4</md:uuid>
+<md:slug>emotion-cognition-and-social-interaction-information-from-psychology-and-new-ideas-topics-self-help</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m44906"/>
+    <col:module document="m44928"/>
+    <col:module document="m44930"/>
+    <col:module document="m44932"/>
+    <col:module document="m44929"/>
+    <col:subcollection>
+      <md:title>Social Cognition and Interpersonal Behavior</md:title>
+      <col:content>
+        <col:module document="m43786"/>
+        <col:module document="m43782"/>
+        <col:module document="m43728"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m43583"/>
+    <col:module document="m43649"/>
+    <col:module document="m43552"/>
+    <col:subcollection>
+      <md:title>Social Interaction and Well-Being</md:title>
+      <col:content>
+        <col:module document="m40665"/>
+        <col:module document="m41461"/>
+        <col:module document="m41079"/>
+        <col:module document="m40940"/>
+        <col:module document="m40964"/>
+        <col:module document="m33455"/>
+        <col:module document="m32953"/>
+        <col:module document="m41042"/>
+        <col:module document="m38823"/>
+        <col:module document="m40963"/>
+        <col:module document="m40704"/>
+        <col:module document="m40831"/>
+        <col:module document="m33172"/>
+        <col:module document="m34114"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m14358"/>
+    <col:subcollection>
+      <md:title>A Critique and Review of Jungian Psychology</md:title>
+      <col:content>
+        <col:module document="m41621"/>
+        <col:module document="m41625"/>
+        <col:module document="m41638"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Values and Beliefs</md:title>
+      <col:content>
+        <col:module document="m41607"/>
+        <col:module document="m41590"/>
+        <col:module document="m41583"/>
+        <col:module document="m41614"/>
+        <col:module document="m41582"/>
+        <col:module document="m41575"/>
+        <col:module document="m41587"/>
+        <col:module document="m41588"/>
+        <col:module document="m41592"/>
+        <col:module document="m41600"/>
+        <col:module document="m41581"/>
+        <col:module document="m41589"/>
+        <col:module document="m41584"/>
+        <col:module document="m41606"/>
+        <col:module document="m41601"/>
+        <col:module document="m41604"/>
+        <col:module document="m41613"/>
+        <col:module document="m41576"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Miscellaneous Articles</md:title>
+      <col:content>
+        <col:module document="m45967"/>
+        <col:module document="m45160"/>
+        <col:module document="m14348"/>
+        <col:module document="m16178"/>
+        <col:module document="m14303"/>
+        <col:module document="m15760"/>
+        <col:module document="m14329"/>
+        <col:module document="m15871"/>
+        <col:module document="m15625"/>
+        <col:module document="m14812"/>
+        <col:module document="m14300"/>
+        <col:module document="m15607"/>
+        <col:module document="m14302"/>
+        <col:module document="m14305"/>
+        <col:module document="m14805"/>
+        <col:module document="m14315"/>
+        <col:module document="m18416"/>
+        <col:module document="m43703"/>
+        <col:module document="m14304"/>
+        <col:module document="m43642"/>
+        <col:module document="m14865"/>
+        <col:module document="m16292"/>
+        <col:module document="m14341"/>
+        <col:module document="m16197"/>
+        <col:module document="m15581"/>
+        <col:module document="m43055"/>
+        <col:module document="m43297"/>
+        <col:module document="m43391"/>
+        <col:module document="m30937"/>
+        <col:module document="m14860"/>
+        <col:module document="m26962"/>
+        <col:module document="m43639"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
